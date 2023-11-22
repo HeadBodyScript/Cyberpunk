@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:entity/end_gateway_beam.png",
+            "ascent": 0,
+            "height": 1080,
+            "chars": ["\uE001"]
+        }
+    ]
+}
