@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"textureSize": [256, 256],
 	"models": [
 		{
@@ -10,7 +11,7 @@
 				{
 					"id": "all",
 					"invertAxis": "xy",
-					"translate": [0, 0, 0],
+					"translate": [0, 1, -9],
 					"submodels": [
 						{
 							"id": "gas_tank",
@@ -879,6 +880,12 @@
 						}
 					]
 				}
+			],
+			"animations": [
+				{
+					"wheel_full_front.rx": "(limb_swing)*limb_speed/2",
+					"wheel_full_back.rx": "(limb_swing)*limb_speed/2"
+				}
 			]
 		},
 		{
@@ -991,7 +998,7 @@
 			"rotate": [0, 90, 0],
 			"boxes": [
 				{
-					"coordinates": [3, 11, -14, 6, 6, 3],
+					"coordinates": [12, 10, -14, 6, 6, 3],
 					"uvNorth": [248, 248, 256, 256],
 					"uvEast": [234, 248, 237, 256],
 					"uvSouth": [40, 24, 48, 32],
@@ -1016,7 +1023,7 @@
 			"rotate": [-15, 0, 0],
 			"boxes": [
 				{
-					"coordinates": [-3.5, 27.13, -5.445, 7, 2, 0],
+					"coordinates": [-3.5, 30.455, -13.895, 7, 2, 0],
 					"uvNorth": [4, 233, 18, 237],
 					"uvEast": [0, 0, 0, 0],
 					"uvSouth": [0, 0, 0, 0],
@@ -1025,7 +1032,7 @@
 					"uvDown": [0, 0, 0, 0]
 				},
 				{
-					"coordinates": [-2.01, 20.39148, 25.06173, 4.02, 2.02, 1.03],
+					"coordinates": [-2.01, 23.69148, 16.61173, 4.02, 2.02, 1.03],
 					"uvNorth": [0, 0, 0, 0],
 					"uvEast": [1, 251, 3, 255],
 					"uvSouth": [12, 251, 21, 255],
@@ -1042,7 +1049,7 @@
 					"rotate": [15, 0, 0],
 					"boxes": [
 						{
-							"coordinates": [-2.01, 7.85, 5.81, 4.02, 6, 3],
+							"coordinates": [-2.01, 8.85, -3.19, 4.02, 6, 3],
 							"uvNorth": [0, 0, 0, 0],
 							"uvEast": [27, 244, 33, 256],
 							"uvSouth": [0, 0, 0, 0],

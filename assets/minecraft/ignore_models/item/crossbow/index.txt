@@ -1,0 +1,7 @@
+assault-rifle 100
+marksman-rifle 200
+pistol 300
+shotgun 400
+sniper 500
+speical 600
+submachine-gun 700

@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/firework_rocket"
+    },
+    "overrides": [
+				{
+					"predicate": { "custom_model_data":1012001},
+					"model": "item/crossbow/sp_rpg/ammunition"
+				}
+    ]
+}

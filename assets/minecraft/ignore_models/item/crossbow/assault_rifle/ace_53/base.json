@@ -1,0 +1,12 @@
+{
+    "parent": "item/crossbow/assault_rifle/base_ar_ace_53",
+    "textures": {
+		"2": "colors/gray_dark",
+		"3": "colors/gray_darker",
+		"4": "colors/gray_darkest",
+		"5": "colors/gray_light",
+		"6": "colors/gray_normal",
+		"7": "colors/sightgreen",
+		"particle": "colors/gray_normal"
+	}
+}
