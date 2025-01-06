@@ -1,0 +1,46 @@
+{
+	"parent": "dimi:item/sniper/amw/base",
+	"textures": {
+		"2": "prototype/colors/gray_bright",
+		"7": "prototype/colors/scope_color",
+		"8": "prototype/colors/green",
+		"9": "prototype/colors/gray_dark",
+		"10": "prototype/colors/gray_light",
+		"11": "prototype/colors/black",
+		"12": "prototype/colors/gray_normal",
+		"14": "prototype/colors/gray_darker"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 1.5, -3.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 1.5, -3.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-4.5, 15, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-4.5, 4.5, 0]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [0, -2.5, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [90, 135, -90],
+			"translation": [-1.5, -0.5, -1.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"rotation": [90, -135, 90],
+			"translation": [2, -0.5, -1],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

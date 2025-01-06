@@ -1,0 +1,47 @@
+{
+	"parent": "item/special/flare/flare",
+	"textures": {
+		"1": "prototype/colors/red_bright",
+		"2": "prototype/colors/red_faded",
+		"4": "prototype/colors/gray_darkest",
+		"5": "prototype/colors/gray_light",
+		"6": "prototype/colors/gray_bright",
+		"particle": "prototype/colors/gray_light"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0.75, 0.75],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0.75, 0.75],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 11, -1.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 1.5, -1.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [-90, 60, 90],
+			"translation": [-0.75, 1.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"fixed": {
+			"rotation": [0, 59, 90],
+			"translation": [0, -15.5, -11.75],
+			"scale": [0.35, 0.35, 0.35]
+		}
+	}
+}

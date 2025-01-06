@@ -1,0 +1,43 @@
+{
+    "parent": "dimi:item/marksman_rifle/sks/base",
+	"textures": {
+		"1": "prototype/colors/black",
+		"3": "prototype/colors/gray_dark",
+		"4": "prototype/colors/gray_darker",
+		"6": "prototype/colors/gray_light",
+		"7": "prototype/colors/gray_normal",
+		"9": "prototype/colors/beige_dark",
+		"10": "prototype/colors/sightgreen"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -2, -4.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -2, -4.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-3.5, 6, -4.25],
+			"scale": [1, 1, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-3.5, -3, -4.25],
+			"scale": [1, 1, 0.8]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"scale": [0.15, 0.15, 0.15]
+		},
+		"gui": {
+			"rotation": [-90, 45, 90],
+			"translation": [1.75, -1, 0],
+			"scale": [0.425, 0.425, 0.425]
+		}
+	}
+}

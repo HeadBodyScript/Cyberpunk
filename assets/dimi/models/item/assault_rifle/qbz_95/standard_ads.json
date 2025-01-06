@@ -1,0 +1,49 @@
+{
+    "parent": "dimi:item/assault_rifle/qbz_95/base",
+	"textures": {
+		"0": "prototype/colors/black",
+		"3": "prototype/colors/gray_dark",
+		"4": "prototype/colors/gray_darker",
+		"5": "prototype/colors/gray_darker_less",
+		"7": "prototype/colors/sightgreen",
+		"8": "prototype/colors/gray_darkish",
+		"10": "prototype/colors/gray_normal",
+		"particle": "prototype/colors/black"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.5, 0.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.5, 0.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-8.97, 15.85, 0],
+			"scale": [0.8, 0.8, 0.65]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-3.25, 4.5, 0],
+			"scale": [0.8, 0.8, 0.65]
+		},
+		"ground": {
+			"translation": [0, 20, 0]
+		},
+		"gui": {
+			"rotation": [-90, 45, 90],
+			"translation": [-0.75, 1.25, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

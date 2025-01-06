@@ -1,0 +1,51 @@
+{
+	"parent": "item/sniper/vss/vss",
+	"textures": {
+		"0": "prototype/colors/black",
+		"1": "prototype/colors/brown_normal",
+		"3": "prototype/colors/gray_dark",
+		"4": "prototype/colors/gray_darker",
+		"5": "prototype/colors/gray_darkest",
+		"6": "prototype/colors/gray_light",
+		"7": "prototype/colors/gray_normal",
+		"8": "prototype/colors/scope_color",
+		"9": "prototype/colors/sightgreen",
+		"particle": "prototype/colors/black"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -0.25, -1],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -0.25, -1],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-4.25, 11, -2],
+			"scale": [1, 1, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-4.25, 1, -2],
+			"scale": [1, 1, 0.8]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [0, 0, -0.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [-90, 45, 90],
+			"scale": [0.475, 0.475, 0.475]
+		},
+		"fixed": {
+			"rotation": [-60, 0, -90],
+			"translation": [0, -1.75, -7.75],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

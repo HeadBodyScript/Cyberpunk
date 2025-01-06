@@ -1,0 +1,52 @@
+{
+	"parent": "dimi:item/pistol/deagle/base",
+	"textures": {
+		"0": "prototype/colors/black",
+		"7": "prototype/colors/sightgreen",
+		"8": "prototype/colors/reflex_dot",
+		"11": "prototype/details/50aecalgold",
+		"12": "prototype/details/50aeusagold",
+		"13": "prototype/colors/goldbase",
+		"14": "prototype/colors/golddark",
+		"15": "prototype/colors/golddarker",
+		"16": "prototype/colors/goldlight",
+		"17": "prototype/colors/handle",
+		"particle": "prototype/colors/black"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 1.1, -0.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 1.1, -0.5],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 12, -4.75],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2.5, -4.75],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"ground": {
+			"translation": [0, 20, 0]
+		},
+		"gui": {
+			"rotation": [-90, 45, 90],
+			"translation": [-0.5, 2, 0],
+			"scale": [0.95, 0.95, 0.95]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

@@ -1,0 +1,49 @@
+{
+    "parent": "item/assault-rifle/vityaz_sn/vityaz_sn",
+	"textures": {
+		"0": "prototype/colors/sightgreen_dot",
+		"2": "prototype/colors/gray_dark",
+		"3": "prototype/colors/gray_darker",
+		"4": "prototype/colors/gray_darkest",
+		"5": "prototype/colors/gray_light",
+		"6": "prototype/colors/gray_normal",
+		"7": "prototype/colors/black",
+		"particle": "prototype/colors/gray_darker"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -2, 0.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [0, -2, 0.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-8.975, 11.08, 0],
+			"scale": [1.25, 1.25, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-3.25, -1.75, 0.25],
+			"scale": [1.25, 1.25, 1]
+		},
+		"ground": {
+			"translation": [0, 20, 0]
+		},
+		"gui": {
+			"rotation": [-90, 45, 90],
+			"translation": [2, -1.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

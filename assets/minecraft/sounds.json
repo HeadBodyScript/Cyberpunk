@@ -1,3 +1,5 @@
 {
-	"shot.ar": {"sounds": ["shot/ar"] }
+	"shoot.glock": {"sounds": ["minecraft:shoot/glock"]},
+	"empty": {"sounds": ["minecraft:empty"]},
+	"reload.glock": {"sounds": ["minecraft:reload/glock"]}
 }
