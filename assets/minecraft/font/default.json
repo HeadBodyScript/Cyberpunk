@@ -303,6 +303,13 @@
             "height": 8,
             "shift": [0.0, 0.0],
             "chars": ["\uE038"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prototype/colors/white.png",
+            "ascent": 128,
+            "height": 256,
+            "chars": ["\uE000"]
         }
     ]
 }
