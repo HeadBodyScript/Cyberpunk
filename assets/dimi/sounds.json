@@ -1,0 +1,5 @@
+{
+	"shoot.glock": {"sounds": ["dimi:shoot/glock"]},
+	"empty": {"sounds": ["dimi:empty"]},
+	"reload.glock": {"sounds": ["dimi:reload/glock"]}
+}
