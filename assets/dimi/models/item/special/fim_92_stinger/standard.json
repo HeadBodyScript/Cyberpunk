@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"texture": "black",
-		"texture1": "gray2",
-		"particle": "gray3"
+		"texture": "prototype/colors/green",
+		"texture1": "prototype/colors/gray2",
+		"particle": "prototype/colors/gray3"
 	},
 	"elements": [
 		{

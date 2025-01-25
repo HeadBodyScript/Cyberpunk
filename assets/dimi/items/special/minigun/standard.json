@@ -5,11 +5,11 @@
 	  "keybind": "key.sneak",
 	  "on_true": {
 		"type": "minecraft:model",
-		"model": "dimi:item/special/mini_gun/standard"
+		"model": "dimi:item/special/minigun/standard"
 	  },
 	  "on_false": {
 		"type": "minecraft:model",
-		"model": "dimi:item/special/mini_gun/standard"
+		"model": "dimi:item/special/minigun/standard"
 	  }
 	}
   }
