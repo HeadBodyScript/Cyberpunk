@@ -1,5 +1,23 @@
 {
-	"shoot.glock": {"sounds": ["dimi:shoot/glock"]},
-	"empty": {"sounds": ["dimi:empty"]},
-	"reload.glock": {"sounds": ["dimi:reload/glock"]}
+	"warning": {"sounds": ["dimi:warning"]},
+	"heavy_0": {"sounds": ["dimi:weapon/heavy_0"]},
+	"heavy_1": {"sounds": ["dimi:weapon/heavy_1"]},
+	"heavy_2": {"sounds": ["dimi:weapon/heavy_2"]},
+	"heavy_3": {"sounds": ["dimi:weapon/heavy_3"]},
+	"heavy_4": {"sounds": ["dimi:weapon/heavy_4"]},
+	"normal_0": {"sounds": ["dimi:weapon/normal_0"]},
+	"normal_1": {"sounds": ["dimi:weapon/normal_1"]},
+	"normal_2": {"sounds": ["dimi:weapon/normal_2"]},
+	"normal_3": {"sounds": ["dimi:weapon/normal_3"]},
+	"normal_4": {"sounds": ["dimi:weapon/normal_4"]},
+	"normal_5": {"sounds": ["dimi:weapon/normal_5"]},
+	"normal_6": {"sounds": ["dimi:weapon/normal_6"]},
+	"rpg": {"sounds": ["dimi:weapon/rpg"]},
+	"suppressed_0": {"sounds": ["dimi:weapon/suppressed_0"]},
+	"suppressed_1": {"sounds": ["dimi:weapon/suppressed_1"]},
+	"suppressed_2": {"sounds": ["dimi:weapon/suppressed_2"]},
+	"suppressed_3": {"sounds": ["dimi:weapon/suppressed_3"]},
+	"reload.finish": {"sounds": ["dimi:weapon/reload/finish"]},
+	"reload.start": {"sounds": ["dimi:weapon/reload/start"]},
+	"empty": {"sounds": ["dimi:weapon/empty"]}
 }
