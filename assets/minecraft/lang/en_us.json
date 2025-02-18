@@ -18,5 +18,16 @@
   "enchantment.level.17": "|||||||||||||||||",
   "enchantment.level.18": "||||||||||||||||||",
   "enchantment.level.19": "|||||||||||||||||||",
-  "enchantment.level.20": "||||||||||||||||||||"
+  "enchantment.level.20": "||||||||||||||||||||",
+
+  "advancements.dimi.body.root.title": "\uE002\uE015\uE004\uE025",
+  "advancements.dimi.body.root.description": "",
+  "advancements.dimi.cool.root.title": "\uE003\uE015\uE015\uE012",
+  "advancements.dimi.cool.root.description": "",
+  "advancements.dimi.intelligence.root.title": "\uE009\uE014\uE020\uE005\uE012\uE012\uE009\uE007\uE005\uE014\uE003\uE005",
+  "advancements.dimi.intelligence.root.description": "",
+  "advancements.dimi.reflexes.root.title": "\uE018\uE005\uE006\uE012\uE005\uE024\uE005\uE019",
+  "advancements.dimi.reflexes.root.description": "",
+  "advancements.dimi.technical.root.title": "\uE020\uE005\uE003\uE008\uE014\uE009\uE003\uE001\uE012",
+  "advancements.dimi.technical.root.description": ""
 }
