@@ -1,0 +1,48 @@
+{
+    "parent": "dimi:item/armory/primary/submachine_guns/p90/base",
+	"textures": {
+		"0": "dimi/colors/gray_darkest",
+		"1": "dimi/colors/black",
+		"3": "dimi/colors/gray_dark",
+		"5": "dimi/colors/gray_light",
+		"6": "dimi/colors/gray_normal",
+		"7": "dimi/colors/desert_3",
+		"8": "dimi/colors/desert_1"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2, -0.25],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 2, -0.25],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-8.97, 15.14, 0.5],
+			"scale": [1, 1, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-4, -10, 0.5],
+			"scale": [1, 1, 0.8]
+		},
+		"ground": {
+			"translation": [0, 20, 0]
+		},
+		"gui": {
+			"rotation": [-90, 45, 90],
+			"translation": [2, 4.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

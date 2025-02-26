@@ -1,0 +1,50 @@
+{
+	"parent": "dimi:item/armory/primary/sniper_rifles/vss/base",
+	"textures": {
+		"0": "dimi/colors/black",
+		"1": "dimi/colors/brown_normal",
+		"3": "dimi/colors/gray_dark",
+		"4": "dimi/colors/gray_darker",
+		"5": "dimi/colors/gray_darkest",
+		"6": "dimi/colors/gray_light",
+		"7": "dimi/colors/gray_normal",
+		"8": "dimi/colors/scope_color",
+		"9": "dimi/colors/sightgreen",
+		"particle": "dimi/colors/black"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -0.25, -1],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -0.25, -1],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-8.96, 11.2, -8],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-1, -5.25, -8.25],
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 20, 0]
+		},
+		"gui": {
+			"rotation": [-90, 45, 90],
+			"scale": [0.475, 0.475, 0.475]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

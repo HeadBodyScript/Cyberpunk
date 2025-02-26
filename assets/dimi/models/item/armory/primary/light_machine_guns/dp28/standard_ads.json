@@ -1,0 +1,45 @@
+{
+    "parent": "dimi:item/armory/primary/light_machine_guns/dp28/base",
+	"textures": {
+		"0": "dimi/colors/black",
+		"1": "dimi/colors/beige_dark",
+		"3": "dimi/colors/gray_dark",
+		"4": "dimi/colors/gray_darker",
+		"5": "dimi/colors/gray_darker_less",
+		"6": "dimi/colors/gray_darkest",
+		"7": "dimi/colors/brown_darker",
+		"particle": "dimi/colors/black"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 1, -8.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 1, -8.25],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [-9.05, 15.75, -1.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [-9, 6.3, -1.5]
+		},
+		"ground": {
+			"translation": [0, 20, 0]
+		},
+		"gui": {
+			"rotation": [60.47, -44.1, 57.68],
+			"translation": [-0.25, 0.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

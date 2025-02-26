@@ -7,6 +7,11 @@
         },
         {
             "type": "directory",
+            "source": "dimi",
+            "prefix": "dimi/"
+        },
+        {
+            "type": "directory",
             "source": "entity/boat",
             "prefix": "entity/boat/"
         },

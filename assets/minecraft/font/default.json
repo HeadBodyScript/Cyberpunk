@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/a.png",
+            "file": "minecraft:dimi/font/headbodyscript/a.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -10,7 +10,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/b.png",
+            "file": "minecraft:dimi/font/headbodyscript/b.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/c.png",
+            "file": "minecraft:dimi/font/headbodyscript/c.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -26,7 +26,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/d.png",
+            "file": "minecraft:dimi/font/headbodyscript/d.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -34,7 +34,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/e.png",
+            "file": "minecraft:dimi/font/headbodyscript/e.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -42,7 +42,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/f.png",
+            "file": "minecraft:dimi/font/headbodyscript/f.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -50,7 +50,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/g.png",
+            "file": "minecraft:dimi/font/headbodyscript/g.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -58,7 +58,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/h.png",
+            "file": "minecraft:dimi/font/headbodyscript/h.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -66,7 +66,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/i.png",
+            "file": "minecraft:dimi/font/headbodyscript/i.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -74,7 +74,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/j.png",
+            "file": "minecraft:dimi/font/headbodyscript/j.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -82,7 +82,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/k.png",
+            "file": "minecraft:dimi/font/headbodyscript/k.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -90,7 +90,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/l.png",
+            "file": "minecraft:dimi/font/headbodyscript/l.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -98,7 +98,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/m.png",
+            "file": "minecraft:dimi/font/headbodyscript/m.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -106,7 +106,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/n.png",
+            "file": "minecraft:dimi/font/headbodyscript/n.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -114,7 +114,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/o.png",
+            "file": "minecraft:dimi/font/headbodyscript/o.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -122,7 +122,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/p.png",
+            "file": "minecraft:dimi/font/headbodyscript/p.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -130,7 +130,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/q.png",
+            "file": "minecraft:dimi/font/headbodyscript/q.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -138,7 +138,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/r.png",
+            "file": "minecraft:dimi/font/headbodyscript/r.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -146,7 +146,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/s.png",
+            "file": "minecraft:dimi/font/headbodyscript/s.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -154,7 +154,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/t.png",
+            "file": "minecraft:dimi/font/headbodyscript/t.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -162,7 +162,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/u.png",
+            "file": "minecraft:dimi/font/headbodyscript/u.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -170,7 +170,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/v.png",
+            "file": "minecraft:dimi/font/headbodyscript/v.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -178,7 +178,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/w.png",
+            "file": "minecraft:dimi/font/headbodyscript/w.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -186,7 +186,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/x.png",
+            "file": "minecraft:dimi/font/headbodyscript/x.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -194,7 +194,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/y.png",
+            "file": "minecraft:dimi/font/headbodyscript/y.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -202,7 +202,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/z.png",
+            "file": "minecraft:dimi/font/headbodyscript/z.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -210,7 +210,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/0.png",
+            "file": "minecraft:dimi/font/headbodyscript/0.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -218,7 +218,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/1.png",
+            "file": "minecraft:dimi/font/headbodyscript/1.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -226,7 +226,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/2.png",
+            "file": "minecraft:dimi/font/headbodyscript/2.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -234,7 +234,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/3.png",
+            "file": "minecraft:dimi/font/headbodyscript/3.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -242,7 +242,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/4.png",
+            "file": "minecraft:dimi/font/headbodyscript/4.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -250,7 +250,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/5.png",
+            "file": "minecraft:dimi/font/headbodyscript/5.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -258,7 +258,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/6.png",
+            "file": "minecraft:dimi/font/headbodyscript/6.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -266,7 +266,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/7.png",
+            "file": "minecraft:dimi/font/headbodyscript/7.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -274,7 +274,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/8.png",
+            "file": "minecraft:dimi/font/headbodyscript/8.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -282,7 +282,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/font/9.png",
+            "file": "minecraft:dimi/font/headbodyscript/9.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -290,7 +290,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/details/lotus.png",
+            "file": "minecraft:dimi/gui/sprites/icon/lotus.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -298,7 +298,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/details/wevium.png",
+            "file": "minecraft:dimi/gui/sprites/icon/wevium.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
@@ -306,7 +306,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:prototype/colors/white.png",
+            "file": "minecraft:misc/white.png",
             "ascent": 128,
             "height": 256,
             "chars": ["\uE000"]

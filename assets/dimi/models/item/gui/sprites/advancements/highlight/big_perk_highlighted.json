@@ -1,0 +1,12 @@
+{
+	"parent": "dimi:item/item",
+	"textures": {
+		"0": "prototype/gui/advancement/highlight/big_perk_highlight"
+	},
+	"display": {
+		"gui": {
+			"translation": [0, 0, 1],
+			"scale": [2, 2, 2]
+		}
+	}
+}

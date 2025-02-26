@@ -1,0 +1,51 @@
+{
+    "parent": "dimi:item/armory/primary/assault_rifles/mk_17/base",
+	"textures": {
+		"0": "dimi/colors/desert_1",
+		"1": "dimi/colors/desert_2",
+		"4": "dimi/colors/gray_dark",
+		"5": "dimi/colors/gray_darker",
+		"6": "dimi/colors/gray_darkest",
+		"7": "dimi/colors/gray_light",
+		"8": "dimi/colors/gray_normal",
+		"9": "dimi/colors/sightgreen",
+		"1_8": "dimi/colors/sight_glass",
+		"2_7": "dimi/colors/reticle_holo"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -0.25, -4.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -0.25, -4.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-3, 10, -5.75],
+			"scale": [1, 1, 0.85]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-3, -0.5, -5.75],
+			"scale": [1, 1, 0.85]
+		},
+		"ground": {
+			"translation": [0, 20, 0]
+		},
+		"gui": {
+			"rotation": [-90, 45, 90],
+			"translation": [1, -0.5, 0],
+			"scale": [0.425, 0.425, 0.425]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}
