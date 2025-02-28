@@ -8,10 +8,10 @@
         "property": "minecraft:custom_model_data",
         "cases": [
           {
-            "when": "meow",
+            "when": "lotus",
             "model": {
               "type": "minecraft:model",
-              "model": "dimi:item/armory/primary/submachine_guns/p90/standard_ads_dimi"
+              "model": "dimi:item/armory/primary/submachine_guns/p90/standard_ads_lotus"
             }
           }
         ],
@@ -25,10 +25,10 @@
         "property": "minecraft:custom_model_data",
         "cases": [
           {
-            "when": "meow",
+            "when": "lotus",
             "model": {
               "type": "minecraft:model",
-              "model": "dimi:item/armory/primary/submachine_guns/p90/standard_dimi"
+              "model": "dimi:item/armory/primary/submachine_guns/p90/standard_lotus"
             }
           }
         ],

@@ -1,7 +1,7 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/accessibility"
+        "layer0": "item/dimi/gui/sprites/icon/attribute"
     },
     "display": {
         "head": {
