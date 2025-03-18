@@ -306,6 +306,78 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:dimi/gui/sprites/icon/devine.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE039"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/gui/sprites/icon/loading/1.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/gui/sprites/icon/loading/2.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/gui/sprites/icon/loading/3.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/gui/sprites/icon/loading/4.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/gui/sprites/icon/loading/5.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/gui/sprites/icon/loading/6.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/gui/sprites/icon/loading/7.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/gui/sprites/icon/loading/8.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE108"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:misc/white.png",
             "ascent": 128,
             "height": 256,
