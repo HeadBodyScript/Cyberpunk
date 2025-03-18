@@ -313,6 +313,20 @@
             "chars": ["\uE039"]
         },
         {
+            "file": "minecraft:dimi/gui/sprites/icon/attribute.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE040"]
+        },
+        {
+            "file": "minecraft:dimi/gui/sprites/icon/perk.png",
+            "ascent": 7,
+            "height": 8,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE041"]
+        },
+        {
             "type": "bitmap",
             "file": "minecraft:dimi/gui/sprites/icon/loading/1.png",
             "ascent": 7,
