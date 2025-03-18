@@ -313,6 +313,7 @@
             "chars": ["\uE039"]
         },
         {
+            "type": "bitmap",
             "file": "minecraft:dimi/gui/sprites/icon/attribute.png",
             "ascent": 7,
             "height": 8,
@@ -320,11 +321,36 @@
             "chars": ["\uE040"]
         },
         {
+            "type": "bitmap",
             "file": "minecraft:dimi/gui/sprites/icon/perk.png",
             "ascent": 7,
             "height": 8,
             "shift": [0.0, 0.0],
             "chars": ["\uE041"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/font/space_nosplit.png",
+            "ascent": 1,
+            "height": 1,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE042"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/font/space_nosplit.png",
+            "ascent": 2,
+            "height": 2,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE043"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:dimi/font/space_nosplit.png",
+            "ascent": 0,
+            "height": 0,
+            "shift": [0.0, 0.0],
+            "chars": ["\uE044"]
         },
         {
             "type": "bitmap",
